@@ -1,0 +1,26 @@
+{
+  "name": "Annie Smith",
+  "age": 33,
+  "address": {
+    "street": "Julih Park",
+    "city": "Niicriz",
+    "state": "NM",
+    "zip": "42432"
+  },
+  "contact": {
+    "phone": "(608) 468-3419",
+    "servicePhone": "800897212"
+  },
+  "birthday": "1980-03-16T05:37:31.015Z",
+  "ip": "233.158.108.226",
+  "foo": "bar",
+  "profile": {
+    "about": "Lih im diohu tu me fejapa nudnebav ez enehet codu wu ro mi fibalib zugfiki imiwuz buam. Zuniwoc segugsa liafawik fi bubkulri vo miiniig imugakdih gikefuf isalum deinu cumarosa ejzaun. Vecbud sior acaviso eha te boacesi va filobaiz iviuc hum dawute ma rauk patjepwa fizazon befu jemdi.",
+    "bio": "Su mogbaul zu net foovaov lafak ite ducrofof fogapki oha hozifizuk jiw ted. Azaupbo pocob pormaj weg helba ohav zo ec jiw ti ar fofloral us battej no put. Bopucjec tef de irapa imo laztutji lofzil uju gotes cup tusi ratuzas munizre bab vacum. Naitejo tepvik can baos zal absisrob nulew zejpihbe to he enicedwac go madtetwa arral it evizow. Linife bubughez giluvsev nefli gadofo oca jumape rettop nuot oreji izuzagit ejaetefo wotel ehiboc sawpurdu kanteli."
+  },
+  "apiKey": "831a29e60cf59427190fa21beec321f306178b74c2c210658b7ed9e1e30466e4",
+  "currency": {
+    "code": "DKK",
+    "name": "Denmark Krone"
+  }
+}
