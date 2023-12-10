@@ -1,0 +1,26 @@
+{
+  "name": "Ruth Bell",
+  "age": 19,
+  "address": {
+    "street": "Libjan Street",
+    "city": "Zihezubu",
+    "state": "NM",
+    "zip": "25400"
+  },
+  "contact": {
+    "phone": "(633) 956-6440",
+    "servicePhone": "800414167"
+  },
+  "birthday": "1965-06-16T08:32:28.416Z",
+  "ip": "87.16.32.221",
+  "foo": "bar",
+  "profile": {
+    "about": "Ijut zufdiz tizij teh domkin kib hilkohda tog zuwpanju dehun panavut mewip wutuje selazaf kowkubok fen asacuuz hefli. Jet ecoikuug ewurus ama hat cugacce rewpo neca oggup hul haejuhi zucof. Davueko evolaf nu sasso torbov tanpe pohizi kabheske pedoupu bihal okeek bap babi je ok jekmagped kemu. Akjirzof etece nozbu ossikdub kepjeluf me doib fowniguv game benuhpad avo paojo.",
+    "bio": "Suj liguinu eneflir gopevi cuiseto ermunel eta manpakmim fov ru epozu johuol. Aveon epma bi gehnowkuc gi zugpaeje zapuk baav vu mitrase fa wilwogew palelpa git. Cuwe fefsahsu bujovsa vo ta si oz kosaf avvuum ano momur hefcuha. Livaik si mu wele bebolbig cazisbi macu mun lazvukin isoovtog ikewe diiw ci gu sucizliv athuz. Mone jugosoj ra diepopam duvut masopo ez es uj ha fahuzum fa mem oggi besmantut. Rasdocic koci wo soc kip zukiha vo bul ango oj fi icabememo deamavo uc bolac ewuli voosav."
+  },
+  "apiKey": "2abe8b4533289a97e161209f1ea59522a390e26e223fcfae772b5cc3551ef7cc",
+  "currency": {
+    "code": "GIP",
+    "name": "Gibraltar Pound"
+  }
+}
