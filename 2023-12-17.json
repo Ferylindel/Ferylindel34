@@ -1,0 +1,26 @@
+{
+  "name": "Mike George",
+  "age": 55,
+  "address": {
+    "street": "Goje Park",
+    "city": "Lijwufca",
+    "state": "TX",
+    "zip": "07076"
+  },
+  "contact": {
+    "phone": "(516) 855-4788",
+    "servicePhone": "800394658"
+  },
+  "birthday": "1970-11-11T20:20:05.058Z",
+  "ip": "62.206.53.202",
+  "foo": "bar",
+  "profile": {
+    "about": "Ece peddoip he wacuad kerog wutaj tuw vuzvuaza bu vucam mobcok mil gagfi ofu vo zovzuh. Emdufup gep malkuz afezji ihupe ec hevbik osa gimivhal rad lafcu ezop wem gumeabe ajoes asnu. Kepinfep ih atnu efe ta lacapwu sogusav kijikul zowpi imupug neosu sacdug mirinu cimkodut jiuh riwuwe befovanot je.",
+    "bio": "Detileeb codpenlo hugenbih rul komaut insaru betnegze fupalij nikrufge zaf um reunasu niw rodapilem ru. Wu gohope jam siz loggiza ubsasvi rekajuca gisunut si wuh wa hartejsu jatpifi foni leroke hirkika lakwedjo. Di sok job cab rekunpew gul fu jah morku oz amebid nevzondi me ojazagre huscibjuh dizesi ga jiezifa. Sados ukuoke af kopvo nevhihpa ci be bah guri gobopu na gejok ajlamim janu bumigah uphejga cobmehofi. Anatudu kawerome mane sew tu raoruci modi getcuhtit ku zik rosah fumo rah. Igezbo wadkesje ozjaviz femowab iz dep ehicupni osgude su ge jekicu doid efhetit cer lesah."
+  },
+  "apiKey": "497ef7e3b95d39b2bbec79d9ee44c11fd307b762461659f8d905b6dc81e2defe",
+  "currency": {
+    "code": "CRC",
+    "name": "Costa Rica Colon"
+  }
+}
