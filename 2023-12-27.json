@@ -1,0 +1,26 @@
+{
+  "name": "Clyde Cruz",
+  "age": 26,
+  "address": {
+    "street": "Vori Pass",
+    "city": "Aviporro",
+    "state": "FL",
+    "zip": "29364"
+  },
+  "contact": {
+    "phone": "(881) 295-3912",
+    "servicePhone": "800971973"
+  },
+  "birthday": "1997-02-03T05:21:23.999Z",
+  "ip": "129.221.76.81",
+  "foo": "bar",
+  "profile": {
+    "about": "Kemik tib cako ilaviv hawje cegnate nutravap wunos sudawu nugrud otiab iz. Rike evumi isnubar la va fopualo vucdujo hir tejik ud zuhetbu rolkefo toguk bajih tuzojtu. Afiseccoc tusupi kovikaote hilze omsozu ojo zabafta vako ifiepu tunocke peuv osfem bivdu uvacat cuji. Zu muigovek tojahgod fo wirem hif wa ben degabez inpik huzuje we kul zudseoz.",
+    "bio": "Uciz ompicej apu ho dasobfaj muku ogduned du kuod dij jotam dupbu hokne emuibu utikok hawoldi. Je pufow vezkop hajair ic ciarobu fewdakhi ezi paifo egcemto sake wirep be. Ceemacod vigmukdup ho ilmilo reilira gav namoure uno apesupik lod vogidom ulam ed ago nozdehu wighuboz vi."
+  },
+  "apiKey": "c7c5afd43163767c203d8636de940c0ad9da8102c7a0e847e005a504747f6b3e",
+  "currency": {
+    "code": "CNY",
+    "name": "China Yuan Renminbi"
+  }
+}
