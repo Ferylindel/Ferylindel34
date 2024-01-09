@@ -1,0 +1,26 @@
+{
+  "name": "Lulu Black",
+  "age": 65,
+  "address": {
+    "street": "Hugu Path",
+    "city": "Humsare",
+    "state": "FL",
+    "zip": "93387"
+  },
+  "contact": {
+    "phone": "(575) 387-4666",
+    "servicePhone": "800568431"
+  },
+  "birthday": "2006-09-18T12:52:46.324Z",
+  "ip": "113.225.246.88",
+  "foo": "bar",
+  "profile": {
+    "about": "Fize ke kejoova rok fe ah wuimesi ozineplal ma juc zo ivamum hinere. Ehutu wudpolaku fuzuz buknap awedicwe ledol wup wen ikjikbor kap di kud ufligahi. Muwet wok ku cegos zo vernelta icu honivak jodi gowossez hi jebcucud idse mu ossu. Guj um iw hit to aj lenave cajnomwa geudane kezozhaw wage do. Emse sofapi joru pe meillab meibobuh copevep pujak hil ajkiwu izitamrul bozabit deujo vo.",
+    "bio": "Seowsu cir rolu houpibe oraola nitizimo po poudoda vozofcot itfunte mipca cerimu. Jev ta winucaubu hefde ogfid sa gih abhak otahi de udi vo uvuetiwe am. Pifpez rum hazut uvlemep fof za zo rihva di jirundag fas bac."
+  },
+  "apiKey": "7515e4fe8ef7bd5ae8fee9ff59543bffe6014ff03c73d287c8273ce99d45b6cf",
+  "currency": {
+    "code": "UYU",
+    "name": "Uruguay Peso"
+  }
+}
