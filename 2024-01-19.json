@@ -1,0 +1,26 @@
+{
+  "name": "Della Adkins",
+  "age": 24,
+  "address": {
+    "street": "Patu Court",
+    "city": "Juvsino",
+    "state": "NE",
+    "zip": "01808"
+  },
+  "contact": {
+    "phone": "(878) 429-5761",
+    "servicePhone": "800654993"
+  },
+  "birthday": "2005-11-26T14:40:19.379Z",
+  "ip": "244.101.107.254",
+  "foo": "bar",
+  "profile": {
+    "about": "Tofeali tol sod dum bampodbe fok ki es orejew na gutijaw sadundo nib mulilet zesewiloh iwaepe evnoz. Ifenofjih po warop nancuz nil mi fa rerlot notci rawenrad vorno ba aswi. Vif bi wawti acgu nabgi we tedvacul bij ulsi iz fora zi can nupag fid big dijnajuj weigva.",
+    "bio": "Zopo somdedni na zezupo po avto ese no obuegnew gipvumfu botsek culum onikultoz bomiv. Vip umiritfin me rebanni vawe ocahen ija hojapak igi vogohepi ilo gokoc wuzedo ucdohok vesof vositki luwdadef. Cejtuvsil mifi hinaak siz fonim reab lipmem macabiji pikoc kahsihfub tur epehuguva."
+  },
+  "apiKey": "c7bc0a9fe0950eb3bd9231aebe6e102a9777f29aab2562f1f38ed88fb2f99015",
+  "currency": {
+    "code": "XPF",
+    "name": "Comptoirs Français du Pacifique (CFP) Franc"
+  }
+}
