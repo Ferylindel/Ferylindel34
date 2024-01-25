@@ -1,0 +1,26 @@
+{
+  "name": "Marian Gomez",
+  "age": 39,
+  "address": {
+    "street": "Badu Loop",
+    "city": "Injabej",
+    "state": "IL",
+    "zip": "88314"
+  },
+  "contact": {
+    "phone": "(652) 367-3778",
+    "servicePhone": "800481283"
+  },
+  "birthday": "1981-03-08T23:42:49.082Z",
+  "ip": "75.140.159.44",
+  "foo": "bar",
+  "profile": {
+    "about": "Nasu zes wo wavul raihu kuv uvgeeho tevib kaujo gozrates padorim gezisa ked. Vepeba zehzog raw dudluta gis zep noev bahivo hituvevu miggeb li cunigpar cuiga. Absupces hisjopo zon ozaram abovid dah vaseuwo sok kigatkeh bove af gumdinkok cegsaj. Oso lu evi jivnufaf ne in hugri povob lah sucene lool lowhi.",
+    "bio": "Po cij ci ge bitet kascefud kaeta ci caz al irufuc li sawe uj wupa hudanzo ako. Putoz ab in vade lujefmed weuhioci nan taso wesit enutov mup wevos vudel po or sufcuv hiakih memnuj. Ezmiwi zud zinonvag elnidtup uhugag loptudot ufe ovo las kiitu corhuw jimo ocoobgi mogeih badgit cu jakwimpi dulebdik. Ivolerla en cini basmudtib sivehene aniri usoma duszinra boco setiftem bahla bilivoose faato uke fagjegik it me ja. Bupufko dem ciko geava agu ewoffij uzol duji ki jupazuobi detod punu uteowu nu farit emjim dugoti. Kocig wero ceel bunewsip zunug gidlofhal kempigte la gum fel ilpi mi becuzgu ut naame subowumek."
+  },
+  "apiKey": "de42c4691d311f00708ec661362b8c73b8e532c299473f40732cd401983c6e72",
+  "currency": {
+    "code": "PAB",
+    "name": "Panama Balboa"
+  }
+}
