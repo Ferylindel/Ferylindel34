@@ -1,0 +1,26 @@
+{
+  "name": "Andrew Parks",
+  "age": 39,
+  "address": {
+    "street": "Luvi Heights",
+    "city": "Padaegi",
+    "state": "FL",
+    "zip": "61817"
+  },
+  "contact": {
+    "phone": "(870) 794-3048",
+    "servicePhone": "800424113"
+  },
+  "birthday": "1990-01-05T00:42:38.439Z",
+  "ip": "162.117.13.68",
+  "foo": "bar",
+  "profile": {
+    "about": "Vifi owtaf be zuub jikipzi zot nadcorsu getpiiv fan paizmu kugha pugu hethipik. Afeon bepwot jaro wuufikon vagutudon kal li mig juulodot wuj sibidak je suhwa epewep du be wubmo. Ridam oceno mowav odime ha muz cobpim ju ege me tes sojenum goj.",
+    "bio": "Omtukdu bajaj mom fokzu zuwbieg fusego ipeijo cibkukim lucim rejok jic efga ses fopsuc ziwofeh uc fudrupfe gusob. Kippit hap oszo tipog wuvsocfoj furovlud doveh ron kic budti seh dab fug niwgorbun. Zos mut fa pasbovvob ko kos eperur anelo hizufotuk sudzim ispadbub wog udofkuf rehjuzdok ja hilna bina ke."
+  },
+  "apiKey": "a14c96f0c0f46b3550d54a1e268fb342d7a670d853336bab6f8b87d1b72193a2",
+  "currency": {
+    "code": "MOP",
+    "name": "Macau Pataca"
+  }
+}
