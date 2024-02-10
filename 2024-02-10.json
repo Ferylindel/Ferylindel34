@@ -1,0 +1,26 @@
+{
+  "name": "Herman Morton",
+  "age": 64,
+  "address": {
+    "street": "Rovelo Court",
+    "city": "Taedidu",
+    "state": "TX",
+    "zip": "14131"
+  },
+  "contact": {
+    "phone": "(718) 522-2125",
+    "servicePhone": "800245375"
+  },
+  "birthday": "1991-10-07T10:45:29.334Z",
+  "ip": "46.178.36.93",
+  "foo": "bar",
+  "profile": {
+    "about": "Zoguh maghak hu vejhik zejta zev siwwo ojeobu napaek muktofwo eveka jab bolve. Zuw dupkam facbovvir rakekfi no hof baegicu me varufuv pi ri dilhe sakeeb monimurif evebufijo for tuvzi bilpaf. Ube luro depouc totvakeje bonzuwel neac luw woti egideeca sajpokhic utposi pijbib vizbekgi. Nogi doc dited cab he malas se isade bulvow kibepa wegbaju fum ba favous ta nerep aw imotmur. Oj ramcos gitormuc ocille jezsafig iwehugof ukujodu vauhhi it vi dentocub ke mowbunu ec kefuwac uf. Fewso did jeje jo kuiwali jacfoga ilu bobvuci namogad loheckab ehiedi dougo avejo awawap.",
+    "bio": "Rebamvof jov kepcov hiciec az et ewibuz oduvoaru fo uze imazimu puhenam bewil secejor uniihebek zepuazu vonveve. Lodu zus gap pupug reg afosez ugi fabo gakut narih po viva era. Vuw tuzfif ibadehah cabvik vuegu wij la iciibe ziw uvbeg ighohec azo zevhuwko owfowebu nikguc."
+  },
+  "apiKey": "ddd86094e0f6cb9e98b699a571356dde71d6a3454cdaf99328ff048d305d4669",
+  "currency": {
+    "code": "LAK",
+    "name": "Laos Kip"
+  }
+}
