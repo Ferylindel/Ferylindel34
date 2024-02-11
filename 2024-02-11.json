@@ -1,0 +1,26 @@
+{
+  "name": "Leah Cole",
+  "age": 65,
+  "address": {
+    "street": "Gotbem Park",
+    "city": "Wusalu",
+    "state": "ID",
+    "zip": "76107"
+  },
+  "contact": {
+    "phone": "(821) 439-1065",
+    "servicePhone": "800546157"
+  },
+  "birthday": "1986-08-28T17:12:34.845Z",
+  "ip": "242.238.232.5",
+  "foo": "bar",
+  "profile": {
+    "about": "We cud fu lecudfib di ciigu la sawbeuni elasulili mivuti basdebhu waper anozezi. Akluw zujin woufu kuvuugo uw dupji ka ar teli sawzizit ikum bi malunbok et. Tedove uco talciz ibo wiijoog niadufu razbite jis jounesov odvaba pejkaf sa vit ni naun.",
+    "bio": "Da joba jigvegsad bezehud nid jazsor abot em vogu barmum izduzho efolodo kapoc jep uk voka. Zok retuw cuv du ow piko gajkeiho jeafu wezdorel ka conuk tabfa mu zewlabis. Tinor ti beb hulpoguw ore empupiz kov tobih ike binille av ruzsabi liv weruglu rinwahco igahinga cuk negev. Tubulgil lorim re veko ve kupnajes saza pa mapsiklun me saakuij ve wosaz luz fa lotmolob upjomeba. Gepobed otu riri kiinapej pijus we bilrulin ul cudke wofdolag os man egjouha muspusle gum lilo."
+  },
+  "apiKey": "0ad0d8f2dd3d085f9b32fa9a2c034502608724c8208c01bff9bf306a144d3111",
+  "currency": {
+    "code": "PAB",
+    "name": "Panama Balboa"
+  }
+}
