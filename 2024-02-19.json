@@ -1,0 +1,26 @@
+{
+  "name": "Hannah Todd",
+  "age": 25,
+  "address": {
+    "street": "Uraen Avenue",
+    "city": "Heweaz",
+    "state": "KY",
+    "zip": "15708"
+  },
+  "contact": {
+    "phone": "(214) 262-8617",
+    "servicePhone": "800781848"
+  },
+  "birthday": "1993-07-12T01:23:55.716Z",
+  "ip": "103.34.76.190",
+  "foo": "bar",
+  "profile": {
+    "about": "Ih dumrut li cefco luksel un peanogoh cuzahgad dogdum anabuz hohoti divoklov nad ivba ciofiku pisnesi. Ezac zadukneb nam wufiji ot bajben dom baf lina nebke lu vicer secbiica pe. Head fanode cejes rilibe bo terhe garvadugo vijpit zekove irunud dirgu kire dip hasvow waccu.",
+    "bio": "Ujimeskiv nemdo dacvazuro fivamu ic nutmap omofov taf majok zo efi fer ja lo. Ejras wim ala baaha basarge cevzufe wuv so ha vap dusujhi viba. Zaepoeti kabawwo sadosoev emhi tas obalof dohil nimvemlu rohida pik ze moku comir dahal wozho rupuvzit umtu bunonij. Fuisvuj uneulozi zume woppaw raha absamcip uwawewa senovitav iwesuz at hatkuckol komcasnaf. Gahpiva pahagzoj recim se hiwur nuz ohorerodo da neoz efipenir os olce hodif awze."
+  },
+  "apiKey": "49949cd304cf6643648787f820f6d22453bc99b36f5142387df3676ae42fd012",
+  "currency": {
+    "code": "XAF",
+    "name": "Communauté Financière Africaine (BEAC) CFA Franc BEAC"
+  }
+}
