@@ -1,0 +1,26 @@
+{
+  "name": "Melvin Benson",
+  "age": 25,
+  "address": {
+    "street": "Huvihi Ridge",
+    "city": "Emilifid",
+    "state": "NE",
+    "zip": "31473"
+  },
+  "contact": {
+    "phone": "(806) 881-4302",
+    "servicePhone": "800395753"
+  },
+  "birthday": "1978-10-26T23:03:01.072Z",
+  "ip": "41.21.184.83",
+  "foo": "bar",
+  "profile": {
+    "about": "Ce rapupwa tuki wi azedoz huwnim tosaphoz faltarec ece puppiok boeh omop. Leozte ja ir kine zewuh ekenejluj fekpuv redomzu guj reofi getuzfuj cumi. Kitusgu re asnaw kig di lilibudic dadagjob delnoc fezuwu fivhis asedne esoza tabol.",
+    "bio": "Fizram owi peszi fabesse iwwefzim janac abo ewubu lamno orgecpel gagrok udi. Miwonruc zibdes vozraf parkiba jih luahcet nirgukom waeluman rep wurija nebrirwo aro lovwog vo dupheaz fa. Pa bopsa beweza fi vihbun hoese pivdi boow opupozpek gowif hami adootnaf so mivujzog. Azucep hucka fej mukobno mear wa fafhok fib pemut zicekvo tilaahi cuvam gidihoov. Adosag lud jefvuep ocinavo ahe ekhi neohiwe gosuwool setuznir is jewsecbel de riz kimevzof redudbo gacob mejis. Cal uvuezcah raeji padovpa jigohuji cocogta nojrotav waolivob henat pu zaatico cam conewdo evukol vujjovca."
+  },
+  "apiKey": "78dc24773ec2f577050f97bb8be24172a52ea765f74e27a5973a4dbf2358c630",
+  "currency": {
+    "code": "XAF",
+    "name": "Communauté Financière Africaine (BEAC) CFA Franc BEAC"
+  }
+}
