@@ -1,0 +1,26 @@
+{
+  "name": "Don Underwood",
+  "age": 28,
+  "address": {
+    "street": "Sukevu Lane",
+    "city": "Ojkuzet",
+    "state": "OH",
+    "zip": "00958"
+  },
+  "contact": {
+    "phone": "(906) 615-3063",
+    "servicePhone": "800468636"
+  },
+  "birthday": "2004-02-01T23:23:18.033Z",
+  "ip": "2.67.217.222",
+  "foo": "bar",
+  "profile": {
+    "about": "Gutir gu ej vom red raaw hob fofanuc fe iroful iwi ocsa hizjutib cem besew sika. Difod itnaja vefu dure cuz tewu jiosofij edjabif ij decjakmel fes igses ji dubeoj ew vi foana sa. Hepzase ave uheku sukgaz wutobwe agabobiv muhfu seki tannepkaf eteuzrev okizi liddov nomi bok zekofa bob. Kaagli eco nikebooni erarizo lonra vugfagij toali zeehapij somohi wevnufes nuwtap idja re gohoze uk.",
+    "bio": "Gugetzap ce mi dahucsub rule zu uvozope duevfo vad hek to ocre dogjes hirursiz ik. Pibocekoh fovoze naobze agavogut nu ravup hehumdu dowgekno ges nobela kute wacgabbaw. Ev kugubvih te caok wadrad jiki sikuhpep doid ewgi ciat ez mothitih orgi ec dipa cebviva imurudwof."
+  },
+  "apiKey": "9912ac0fa2834c7b2f26ff35b9b3122789c03f8f396f93492d3d7ee29cfd9019",
+  "currency": {
+    "code": "SGD",
+    "name": "Singapore Dollar"
+  }
+}
