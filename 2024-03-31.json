@@ -1,0 +1,26 @@
+{
+  "name": "Lettie Cook",
+  "age": 19,
+  "address": {
+    "street": "Cudhe Heights",
+    "city": "Eshubbah",
+    "state": "IA",
+    "zip": "56127"
+  },
+  "contact": {
+    "phone": "(667) 317-7932",
+    "servicePhone": "800135881"
+  },
+  "birthday": "1964-08-24T10:10:22.470Z",
+  "ip": "86.86.148.220",
+  "foo": "bar",
+  "profile": {
+    "about": "Wavkuzka zomvowute bil sigogoj amkar zepzuv nohli nurac pepufda oswuho mabmo gaegti woha. Rasanab hiolo ci cob olupif ud ji rati guifwe sehi uftedza zusaki ago hemarlow lavepzu tuhhir ufooc. Macibil zeh ihi co avi ibfa jozkanvu nodril epamasu vegdemar utu ommabi. Rik fo viriru ol fobajehu mi iva umpip pive il fo lac fadukkan zis igerog nuwauja.",
+    "bio": "Himoub ziezude tertubi ceszekomi sel fat lic pa jok iganir ku koz liw owirufpib lahah. Nidpodo ogeegu uz wem ose kuvmu col jip ezda wunuig la recrob da tab hu pej avu ni. Dambove ma eh rowaud lusamtom nawu lenraj daow eta ficisana tausifa masfofuz soma vebabofac mu to oru."
+  },
+  "apiKey": "7fab7df3581fa668643f540cba45f68abaec2248ef8406c594b3d8402004b83c",
+  "currency": {
+    "code": "CZK",
+    "name": "Czech Republic Koruna"
+  }
+}
