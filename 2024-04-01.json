@@ -1,0 +1,26 @@
+{
+  "name": "Gilbert Fox",
+  "age": 36,
+  "address": {
+    "street": "Ajdu Court",
+    "city": "Zisnopenu",
+    "state": "CT",
+    "zip": "43762"
+  },
+  "contact": {
+    "phone": "(913) 459-3112",
+    "servicePhone": "800939999"
+  },
+  "birthday": "1982-01-23T19:30:26.794Z",
+  "ip": "173.229.252.46",
+  "foo": "bar",
+  "profile": {
+    "about": "Boh lem focfuk lubtewtew rowi obeofaki sive bunursih kozfaged peh nifben moame feiw. Miwelvi urigelwe ducmoko alavufkod sa ihiru ajbinof noggo emsobi tu cupi wo fuvhabid. Sah zajowo oc karzeb fupsaseki bohec cuvobhev to zisabgo luvcu faihjer zozot fomawim.",
+    "bio": "Ijkavuh wuwegdev loseru dombega bocikkan jaru zuiheda era wor lewbuno merihwun ficvoz kises waabautu zuekupot sithejivi. Wo roledawe ji emgaeri pose cubemja oci tisla muhehziv uzipe uta wiibgaz sah uh wigditul. Ud ubfig du oz rodafobu subli igsezep cusarri rin vokisja paccako mudi zerulus. Wowefbah curazdo bahelu neszoab de kogot ubucas ju poawo rihbovuf kemoztud mo. Funi izkadac ewaizima fowen keava ojhupo wunedsup jafgego hama fiw voppicwi azafocjaz gaket siojeem. Ola sos wujluzep egina nonweswu rete sicigciz vit rasa joh oliwav cabiani."
+  },
+  "apiKey": "d54c4a50a92a1dcd8888f8bfb5ae38f9ce67a4a179c3a82e5210d50079b8c81b",
+  "currency": {
+    "code": "LSL",
+    "name": "Lesotho Loti"
+  }
+}
